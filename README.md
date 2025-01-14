@@ -1,7 +1,5 @@
 # Noise Detection and Uncertainty Estimation in ECGs
 
-## Overview
-
 This repository contains the report for my project "Noise Detection and Uncertainty Estimation in ECGs". The project aims to enhance the interpretability of Electrocardiograms (ECGs) by detecting noise using deep learning techniques. This work was conducted as part of an internship at [Cordys Analytics](https://cordys.health/), associated with my Masters in Artificial Intelligence from Maastricht University.
 
 ## Research Objectives
