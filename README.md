@@ -46,6 +46,6 @@ Several approaches were implemented and evaluated for noise detection and uncert
 
 - Achieved strong ROC-AUC scores across various datasets.
 
-- Demonstrated the potential of autoencoder reconstruction techniques for OOD detection.
+- Demonstrated the potential of autoencoder reconstruction techniques for OOD detection in ECGs.
 
 - Feature clustering and uncertainty estimation were found insufficient for detecting noisy ECGs.
